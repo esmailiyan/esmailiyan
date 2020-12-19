@@ -9,7 +9,6 @@
 <a href="https://virgool.io/@esmailiyan.mahdi" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/rss.svg" alt="Virgool" height="30" width="40" /></a></p>
 
 <h3 align="left"> Languages and Tools: </h3>
-
 <p align="left">
 <a href="https://www.php.net/"target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/php.svg" alt="php" width="40" height="40"/></a> 
 <a href="https://www.java.com/en/" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/java.svg" alt="java" width="40" height="40"/></a> 
