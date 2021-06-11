@@ -29,6 +29,7 @@
 - **NodeJS**
 - **Java**
 
+<h1 align="center"></h1>
 <h3 align="left"> Tools and Skills: </h3>
 
 - **Linux**
