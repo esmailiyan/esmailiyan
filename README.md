@@ -32,6 +32,7 @@
 <h3 align="left"> Tools and Skills: </h3>
 
 - **Linux**
+- **SolidWorks**
 - **Image Processing**
 - **Camtasia, Filimora**
 - **Raspberry Pi, Arduino**
