@@ -1,13 +1,6 @@
 <h1 align="center"> Hi 👋, I'm Mahdi Esmailiyan </h1>
 <h2 align="center"> Programmer from Iran </h2>
 
-- 📝 I write articles on [virgool](virgool.io/@esmailiyan)
-- 💬 Ask me about **Anything**
-- 🌱 I’m currently learning **NAT**
-- 📫 How to reach me **esmailiyan.mahdi@gmail.com**
-
-<h1 align="center"></h1>
-
 <h3 align="left"> Connect with me: </h3>
 <p align="left">
 <a href="https://t.me/Mahdi_Esmailiyan" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg" alt="Telegram" height="30" width="40" /></a>
@@ -17,6 +10,12 @@
 <a href="https://virgool.io/@esmailiyan" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/rss.svg" alt="Virgool" height="30" width="40" /></a>
 </p>
 
+<h1 align="center"></h1>
+
+- 📝 I write articles on [virgool](virgool.io/@esmailiyan)
+- 💬 Ask me about **Anything**
+- 🌱 I’m currently learning **NAT**
+- 📫 How to reach me **esmailiyan.mahdi@gmail.com**
 <h1 align="center"></h1>
 
 <h3 align="left"> Languages: </h3>
